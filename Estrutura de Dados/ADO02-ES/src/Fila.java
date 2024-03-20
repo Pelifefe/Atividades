@@ -43,7 +43,7 @@ public class Fila {
         }
     }
     public int qtsPessoas(){
-        return this.qtsPessoas();
+        return this.qtsPessoas;
     }
 
     public void desenfileirar() {
@@ -91,4 +91,3 @@ public class Fila {
         return s.toString();
     }
 }
-
