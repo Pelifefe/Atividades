@@ -53,10 +53,10 @@ public class Screen extends JFrame implements ActionListener{
         Enfileirar enfileirar = new Enfileirar();
     }
     private void desenfileirar(ActionEvent actionEvent){
-        //tela
+        //mensagem
     }
     private void exibir(ActionEvent actionEvent){
-        //mensagem
+        Exibir exibir = new Exibir();
     }
     private void qPessoas(ActionEvent actionEvent){
         //mensagem
